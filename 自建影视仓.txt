@@ -1,5 +1,13 @@
 { "urls":
 [
+{"name":"雲飛影视/yunfei","url":"https://gitee.com/yunfei-film-and-television/yunfei/raw/master/latest.txt"},
+{"name":"雲飛影视/zyyy","url":"https://gitee.com/yunfei-film-and-television/zyyy/raw/master/tv.txt"},
+{"name":"jc620/pem2","url":"https://gitee.com/jc620/pem/raw/master/jc.json"},
+{"name":"jc620/pem","url":"https://gitee.com/jc620/pem/raw/master/1.json"},
+{"name":"wang/yscjk","url":"https://gitee.com/shengfuwang/yscjk/raw/master/wsf.json"},
+{"name":"ttdle/ttdle","url":"https://gitee.com/ttdle/ttdle/raw/master/ttdle.json"},
+{"name":"qdd_l/qianggeyingshi","url":"https://gitee.com/qddl/qianggeyingshi/raw/master/fty.json"},
+{"name":"荐影/Cat_tv","url":"https://gitee.com/soundy-dust/cat_tv/raw/master/api/JY_api.json"},
 {"name":"网盘","url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"}, 
 {"name":"one线路","url":"https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"}, 
 {"name":"ok线路","url":"http://ok321.top/ok"}, 
