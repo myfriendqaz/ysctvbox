@@ -10,6 +10,10 @@
     {"name":"TWDS","url":"https://freetv.fun/test_channels_taiwan_new.m3u"},
     {"name":"XGDS","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
     {"name":"ZGCCTVDS","url":"https://freetv.fun/test_channels_china_national_new.m3u"},
+    {"name":"ZGTVDS","url":"https://freetv.fun/test_channels_china_new.m3u"},
+    {"name":"MGIPTVDS","url":"https://freetv.fun/test_channels_united_states_new.m3u"},
+    {"name":"YGIPTVDS","url":"https://freetv.fun/test_channels_united_kingdom_new.m3u"},
+    {"name":"XJPIPTVDS","url":"https://freetv.fun/test_channels_singapore_new.m3u"},
     {
       "name": "电视直播",
       "url": "https://tv.iill.top/m3u/Gather"
