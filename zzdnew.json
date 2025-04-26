@@ -9,6 +9,7 @@
     },
     {"name":"TWDS","url":"https://freetv.fun/test_channels_taiwan_new.m3u"},
     {"name":"XGDS","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
+    {"name":"ZGCCTVDS","url":"https://freetv.fun/test_channels_china_national_new.m3u"},
     {
       "name": "电视直播",
       "url": "https://tv.iill.top/m3u/Gather"
