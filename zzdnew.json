@@ -8,6 +8,7 @@
       "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
     },
     {"name":"TWDS","url":"https://freetv.fun/test_channels_taiwan_new.m3u"},
+    {"name":"XGDS","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
     {
       "name": "电视直播",
       "url": "https://tv.iill.top/m3u/Gather"
