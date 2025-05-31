@@ -62,7 +62,7 @@
 			"type": 3,
 			"searchable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/myfriendqaz/ysctvbox/refs/heads/main/live2vod.js",
-			"ext": "https://gh-proxy.com/https://github.com/myfriendqaz/ysctvbox/blob/main/zzdnew.json"
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/myfriendqaz/ysctvbox/refs/heads/main/zzdnew.json"
 		},
         {
       "key": "直播点播",
